@@ -18,9 +18,7 @@ body {
 
 .hero {
   background-image: url(images/pexels-janetrangdoan-769969.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
-
   color: black;
   text-align: center;
   padding: 4rem 2rem;
